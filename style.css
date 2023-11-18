@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "JosefinSans Regular";
+    src: url(./fonts/JosefinSans-Regular.ttf)
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "JosefinSans Regular", sans-serif;
+    list-style: none;
+}
